@@ -1,3 +1,2 @@
-# Python-Machine-Learning
-What I have done during the Big Data and Machine Learning summer program offered by Columbia University --
-#### Try data analysis and model building
+# NLP
+A glance for NLP -- still not dataset because of copyright
