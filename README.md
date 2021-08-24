@@ -1,2 +1,2 @@
 # NLP
-A glance for NLP -- still not dataset because of copyright
+A glance for NLP -- still no dataset because of copyright
