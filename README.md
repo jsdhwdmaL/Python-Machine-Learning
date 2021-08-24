@@ -1,3 +1,3 @@
-# Python-Machine-Learning
-What I have done during the Big Data and Machine Learning summer program offered by Columbia University --
-#### Try data analysis and model building
+## Whole Process: Preprocessing data --> EDA --> Modeling
+
+Data analysis about housing in New York City
