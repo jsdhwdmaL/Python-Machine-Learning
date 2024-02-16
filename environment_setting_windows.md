@@ -18,8 +18,8 @@ i. You can go to https://www.python.org/ to install Python. It normally costs no
 ![image](https://github.com/jsdhwdmaL/Python-Machine-Learning/assets/84774036/b7b4889a-8cb0-4d5f-afa9-9f9030b46004)
 
 ii. Open the downloaded *.exe* file and complete set-up:
-- You can choose either the default installation method or customized installation.
-- If you choose the latter, you might need to first create an empty directory in the space you want to download Python into, preferrably setting its name to "Python." Remember to choose all on "Optional Features" page. When choosing "Advanced Options," choose the first five ones (the last two are really optional). Then select the directory you just created as your customized install location.
+- You can choose either the default installation method or customized installation. No matter which, choose both the two options at the bottom, especially the one that says "Add Python to PATH"!
+- If you choose to customize your installation, you might need to first create an empty directory in the space you want to download Python into, preferrably setting its name to "Python." Remember to choose all on "Optional Features" page. When choosing "Advanced Options," choose the first five ones (the last two are really optional). Then select the directory you just created as your customized install location.
 ![image](https://github.com/jsdhwdmaL/Python-Machine-Learning/assets/84774036/5ca6d528-2933-4113-810d-32ead515e679) ![image](https://github.com/jsdhwdmaL/Python-Machine-Learning/assets/84774036/2c777868-cf7d-4b81-9c9a-72e7017925a3)
 
 iii. Check if installation succeeded.
