@@ -37,3 +37,7 @@ iii. Check if installation succeeded.
 
 ### 3) Set up PyCharm Environment
 - Create new project
+
+### 4) Install Jupyter
+- jupyter kernelspec list
+- 
